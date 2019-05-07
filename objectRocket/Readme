@@ -1,0 +1,7 @@
+Answer for Object Rocket coding test for Jayson Dyke.
+
+You should be able to build an image with just the attached Dockerfile and it should clone my github repo onto the image. Once you run the script, you should get a menu. The menu is self explanatory, but the high level summary is:
+Add: Adds an item to the cart. Opens to a second menu that asks you which item to add. Item codes are what was listed in the exercise.
+total: Prints out the current cart, including discounts.
+checkout: Executes total and clears the cart
+quit: Quits out of the application
